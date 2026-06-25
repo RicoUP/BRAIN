@@ -19,7 +19,7 @@
 *To write highly targeted copy, the LLM needs to understand the target's psychology.*
 
 ### Persona 1: [e.g., "Overwhelmed Solo Marketer Sarah"]
-*   **Demographics:** [e.g., Age 28-45, Marketing Manager at a mid-sized B2B SaaS company ($5M–$20M ARR).] Owner and Managers of mid sized local businesses without internal seo emoployes, 30-55 years old
+*   **Demographics:** Owner or Manager of mid sized local businesses without internal seo emoployes, 30-55 years old
 *   **Core Desires & Goals:** 
     *   To get reguarly new client leads and dont depend on referrals, hope or radom visitors
     *   To become visible and local number 1 in their niche
@@ -39,13 +39,16 @@
 *LLMs need exact specifications of what you sell to write landing pages and sales emails.*
 
 ### Offer 1: [e.g., ScribeFlow Pro Subscription]
-*   **Product Type:** [e.g., SaaS Subscription, Service, Consulting, Info-Product]
-*   **Price Point:** [e.g., $99/month or $990/year]
+*   **Product Type:** SEO Implementation (optional with SEA, Analytics, Tracking)
+*   **Price Point:** From 1500.- (CHF or EUR) monthly budget. From 3000.- budget, setup, sea managemnt: all inclusive
 *   **Key Features & Corresponding Benefits:**
-    *   *Feature:* [e.g., One-Click Multi-Platform Export] -> *Benefit:* [e.g., Format your content for LinkedIn, Twitter, and TikTok simultaneously without copying and pasting.]
-    *   *Feature:* [e.g., Custom Brand Voice Tuning] -> *Benefit:* [e.g., The tool learns your specific vocabulary and tone, so your audience never guesses an AI wrote it.]
-*   **The Guarantee / Risk Reversal:** [e.g., 14-day money-back guarantee, no questions asked.]
-*   **Primary Call to Action (CTA):** [e.g., "Start Your 7-Day Free Trial" or "Book a 15-Minute Demo"]
+    *   *Feature:* Get up to 1000 perfect optimized SEO Landingpage at no investment cost, risk or time investment
+    *   *Feature:* 10x your visibility and only pay for successfull visits
+    *	*Feature:* Combine with free SEA Management to have steady visits and leads from day 1
+    *	*Feature:* Convert 3 times more visitors into valuable lead with real time personalisation
+    *	*Feature:* Full AI Ready: Get mentioned by AI like ChatGPT, Geminy, Perplexity, Claude etc.
+*   **The Guarantee / Risk Reversal:** only pay for visitors, no output no cost, try 6 month with SEA Traffic first
+*   **Primary Call to Action (CTA):** Get your individual success plan at no cost
 
 ---
 
@@ -67,21 +70,34 @@
 
 *LLMs can pull these exact statistics to build credibility in emails and sales pages.*
 
-*   **Key Metric 1:** [e.g., "Over 1,200 marketing teams currently use ScribeFlow."]
-*   **Key Metric 2:** [e.g., "Users save an average of 14 hours per week on content creation."]
+*   **Key Metric 1:** Over 450'000 lead generated for local businesses like yours
+*   **Key Metric 2:** Average Google Top 10 Success Rate of 67.3%
+	**Key Metric 3:** 100% success based. No visitors, no cost
+	**Key Metric 4:** Seit 2007 der zuverlässige Partner für lokale Dienstleister
+	
 *   **Case Study/Testimonial 1:** 
-    *   *Who:* [e.g., John Doe, Head of Growth at TechCorp]
-    *   *Quote:* [e.g., "ScribeFlow cut our content production budget by 60% while helping us double our LinkedIn engagement in under 30 days."]
-*   **Authority Indicators:** [e.g., Featured in TechCrunch, HIPAA Compliant, SOC2 Certified.]
+    *   *Who:* Dr. Betram Wittrin
+    *   *Quote:* ["Meine Erwartungen wurden übertroffen und ich habe nun 10x mehr Anfragen, einen zusätzlichen Arzt eingestellt und bin mit Vollauslastung und Wunschpatienten weiter am Expandieren."]
+    
+    *   **Case Study/Testimonial 2:** 
+    *   *Who:* Dr. Marurizio Camurati
+    *   *Quote:* ["“Ich habe schon damals in einer Gemeinschaftspraxis mit Uniplex lange Zeit erfolgreich zusammengearbeitet. Mit meiner eigenen Praxis setze ich erneut auf Uniplex, bin mit 584 Suchbegriffen auf Google Seite 1, erreiche einen ROI von 14x und bin wie früher auch jetzt wieder uneingeschränkt glücklich.”]
+
+    *   **Case Study/Testimonial 3:** 
+    *   *Who:* Dr. Markus Enzler
+    *   *Quote:* ["Im Gesundheitsbereich ist Online Marketing unverzichtbar, daher sind wir froh mit Uniplex einen kompetenten, zuverlässigen und langfristig denkenden Partner gefunden zu haben. Dank über 750 Keywords auf Seite 1 bei Google sind wir in der ganzen Region perfekt auffindbar, optimal ausgelastet und generieren aus dem Werbebudget ein ROI von über 12x!."]    
+    
 
 ---
 
 ## 6. Competitors & Differentiation
 
-*   **Main Competitors:** [e.g., Descript, Munch, Opus Clip]
+*   **Main Competitors:** semsea.ch, netpulse.ch, worldsites-schweiz.ch, blueglass.ch, mikgroup.ch, smarketer.ch, webrepublic.com, adseed.de, wortspiel
 *   **How We Differentiate:** 
-    *   [e.g., Competitors only chop video; ScribeFlow writes deep-dive, high-converting text-based posts optimized for LinkedIn's algorithm.]
-    *   [e.g., ScribeFlow allows you to import your past top-performing posts so the AI mimics your exact writing style, whereas competitors generate generic AI templates.]
+    *   Pricing Risk:	Success-Based (CPC / Performance): Uniplex covers setup, ad network and management costs; clients pay only for verified traffic/leads
+    *   SEO Approach:	Programmatic Longtail: Automated scaling of 500+ localized longtail search terms using dedicated landing pages
+    *	Implementation:	Decoupled Infrastructure: Deployed on an external landing page system. Does not touch or alter the client’s CMS
+    *	Target Client	SMEs & Local Service Providers: High-intent local lead generation (e.g., medical clinics, local services)
 
 ---
 
@@ -97,3 +113,16 @@
 > 2. Adhere strictly to the **Brand Voice & Style Guide** (avoiding forbidden words and matching the specified tone).
 > 3. Weave in the **Social Proof** and **Differentiation** naturally to build trust.
 > 4. Keep your focus on the benefits to the customer, rather than just listing product features.
+
+
+## 8. Brand Voice, Tone, & Style Guidelines (Inspired by Uniplex.ch)
+
+*   **Tone:** Professional, performance-oriented, transparent, direct, and risk-reversing (e.g., "100% erfolgsbasiert", "Kein Erfolg = Keine Kosten").
+*   **Design Aesthetics:** Clean Swiss modernism. High-contrast grids, structured content blocks, and heavy use of white space.
+*   **Color Palette (for CSS generation):**
+    *   Primary: Deep Digital Blue (`#0056D2`)
+    *   Accent: Conversion Red (`#E03E2F`) and Success Green (`#10B981`)
+    *   Text: Charcoal/Dark Slate (`#1F2937`)
+    *   Backgrounds: Off-White/Light Gray (`#F8FAFC`)
+*   **Typography:** Modern sans-serif (Inter, Helvetica, or Arial). Bold, punchy headings paired with highly legible, spacious body text.
+*   **Structuring Rule:** Avoid wall-of-text paragraphs. Use lists, comparison grids, bold text, and clear bullet-pointed value propositions to ensure high mobile readability.
